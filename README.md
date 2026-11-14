@@ -1,3 +1,4 @@
+'''
 #include <stdio.h>
 #include <3ds.h>
 
@@ -43,6 +44,6 @@ int main(void) {
     while (aptMainLoop()) {
         //3ds実機で色々便利なソフトを目指して開発中！
     }
-
+'''
     return 0;
 }
