@@ -18,7 +18,7 @@ int main(void) {
     //開発環境・スタイル
     DevStyle my_style = {
         .main_env  = "ニンテンドー3ds (実機での動作・エミュレーターでのテストを軸に開発)",
-        .languages = "C / C++",
+        .languages = "C/C++",
         .ai_tools  = "Claude等の生成AIも活用してます",
         .editors   = "devkitPro, サクラエディタ"
     };
