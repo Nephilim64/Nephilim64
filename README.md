@@ -34,7 +34,7 @@ int main(void) {
     const char *goals[] = {
         "自作ソフトのソースコード公開&ドキュメント整備",
         "自作Webサイトの構築",
-        "C#を使ってPCのソフトを完成させること"
+        "C#を使ってPCのソフトを作成してみること"
     };
 
     printf("メイン環境: %s\n", my_style.main_env);
@@ -42,7 +42,7 @@ int main(void) {
     printf("一番のこだわり: %s\n", passion[0]);
 
     while (aptMainLoop()) {
-        //3ds実機で色々便利なソフトを目指して開発中！
+        //色々便利なソフトを目指して開発中！
     }
 
     return 0;
